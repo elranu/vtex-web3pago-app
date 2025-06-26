@@ -1,0 +1,7 @@
+{
+  "extensions": {
+    "checkout/transactions/basilic-web3pago": {
+      "component": "index"
+    }
+  }
+}
