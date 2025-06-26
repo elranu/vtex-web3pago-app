@@ -1,7 +1,7 @@
 {
   "name": "basilic-web3pago",
   "vendor": "basilicpartnerar",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "title": "Web3Pago",
   "description": "Acepta pagos en criptomonedas con Web3Pago de Basilic",
   "defaultLocale": "es",
